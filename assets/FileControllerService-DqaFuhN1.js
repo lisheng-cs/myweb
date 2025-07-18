@@ -1,1 +1,0 @@
-import{q as o,O as t}from"./index-h4lH79Q9.js";class l{static uploadFileUsingPost(e,r){return o(t,{method:"POST",url:"/file/upload",query:{biz:r},formData:{file:e},errors:{401:"Unauthorized",403:"Forbidden",404:"Not Found"}})}}export{l as F};
